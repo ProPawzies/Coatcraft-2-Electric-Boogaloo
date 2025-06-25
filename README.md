@@ -4,4 +4,4 @@ Ambientsounds 6 | https://www.curseforge.com/minecraft/mc-mods/ambientsounds/fil
 
 Effective | https://modrinth.com/mod/effective
 
-If you have any questions about mods being added, or configs changed, msg me in the discord or make a pull request into the mods folder or a link here for the mod, i will test it with He Who to see if it is ok to add and is fine with the modpack, if not, i will explain why to you in dm's.
+If you have any questions about mods being added, or configs changed, msg me in the discord or make a pull request into the mods folder or a link here for the mod, i will test it with some of the server's mod testors to see if it is ok to add and is fine with the modpack, if not, i will explain why to you in dm's.
