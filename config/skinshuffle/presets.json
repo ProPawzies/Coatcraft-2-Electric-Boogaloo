@@ -1,0 +1,30 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": -1,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "545937319",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "mewomeow"
+    },
+    {
+      "skin": {
+        "skin_name": "1191346185",
+        "model": "slim",
+        "type": "skinshuffle:config"
+      },
+      "name": "mewo :3"
+    },
+    {
+      "skin": {
+        "skin_name": "1370774968",
+        "model": "slim",
+        "type": "skinshuffle:config"
+      },
+      "name": "Unnamed Preset"
+    }
+  ]
+}
