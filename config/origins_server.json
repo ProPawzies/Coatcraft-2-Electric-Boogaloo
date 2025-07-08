@@ -2059,11 +2059,6 @@
       "origins-plus-plus:snake/intimidate": true,
       "origins-plus-plus:snake/lunge": true
     },
-    "cc_2_overides:the_administrator": {
-      "enabled": true,
-      "origins:invisibility": true,
-      "origins:phasing": true
-    },
     "cc_2_overides:chorus_moth": {
       "enabled": true,
       "origins:throw_ender_pearl": true,
